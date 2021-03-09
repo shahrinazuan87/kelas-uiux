@@ -6,4 +6,4 @@ Kelas UI/UX Training Workshop By Mr Kannan Naidu
 
 | HomePage      | 
 |------------|
-| <img src="../master/assets/screenshotapp1.png" width="320px"> |
+| <img src="../master/images/screenshotapp1.png" width="320px"> |
